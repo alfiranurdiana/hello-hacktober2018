@@ -42,7 +42,10 @@ git checkout -b branch-baruku
 ### Tambahkan kontibusi kamu
 - buat folder baru dengan username kamu dan isi folder dengan projek terbaikmu
 - Tambahkan username github pada kontributor dibawah ya
-
+ e = pEmp;
+        e = iEmp;
+        p = pEmp;
+        p = eBill
 
 ### Commit dan Push
 ```
